@@ -1,9 +1,9 @@
 ## Welton Faria  
 **Software Engineer  | Software Developer**
 
-Profissional com mais de **15 anos de experiência em engenharia de software**, com atuação em sistemas corporativos de missão crítica, focado em **escalabilidade, segurança, alta disponibilidade e excelência arquitetural**.
+Profissional com mais de **15 anos de experiência em engenharia de software**, com atuação em sistemas corporativos de missão crítica, focado em **escalabilidade, segurança, alta disponibilidade e excelência arquitetural.
 
-Experiência consolidada na definição de estratégias tecnológicas, arquitetura de soluções distribuídas e liderança técnica, garantindo a entrega de produtos robustos e alinhados às demandas de negócio.
+88Experiência consolidada na definição de estratégias tecnológicas, arquitetura de soluções distribuídas e liderança técnica, garantindo a entrega de produtos robustos e alinhados às demandas de negócio.**
 ---
 ## 🛠️ Stack Tecnológica
 
