@@ -44,7 +44,7 @@ Experiência consolidada na definição de estratégias tecnológicas, arquitetu
 ---
 ### 🧪 Testes & Qualidade
 ![xUnit](https://img.shields.io/badge/xUnit-5C2D91?style=for-the-badge&logo=unstop&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white))
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ---
 ### 📊 Metodologias
 ![Scrum](https://img.shields.io/badge/Scrum-F46800?style=for-the-badge&logo=scrutinizerci&logoColor=white)
